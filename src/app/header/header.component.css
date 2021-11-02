@@ -1,6 +1,7 @@
 .navbar{
     background-color: #1e88e5 !important;
     display: flex !important;
+    margin-bottom: 30px;
 }
 
 .navbar a{
